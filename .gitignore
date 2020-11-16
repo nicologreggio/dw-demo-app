@@ -16,3 +16,4 @@ tmp
 target
 host-m2-repo
 .m2
+.vscode/settings.json
